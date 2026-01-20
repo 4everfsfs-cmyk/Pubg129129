@@ -9,10 +9,17 @@
 ||max.appnext.com^
 ||doubleclick.net^
 ||pagead2.googlesyndication.com^
+||sentry.io^
+||mixpanel.com^
+||amplitude.com^
 ||connect.facebook.net^
 ||graph.facebook.com^
 ||ads.tiktok.com^
+||google-analytics.com^
+||crashlytics.com^
+||firebaseio.com^
 @@||pubgmobile.com^
 @@||gpubgm.com^
 @@||tencent.com^
 @@||tencentgames.com^
+@@||*.firebaseio.com^$important
